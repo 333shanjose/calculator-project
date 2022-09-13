@@ -1,0 +1,148 @@
+.calc{
+    width:400px;
+    height:600px;
+    background-color: gray;
+    margin-left: 400px;
+    
+}
+#screen{
+    width:80%;
+    height:40px;
+    margin-top:30px;
+    margin-left: 36px;
+    pointer-events: none;
+
+}
+.btn{
+    width: 40px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: bisque;
+}
+.buttons{
+    padding-left: 30px;
+}
+#clear{
+ 
+  
+  width: 40px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: bisque
+}
+#one{
+    width: 40px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: bisque  
+}
+#two{
+    width: 40px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: bisque  
+}
+#three{
+    width: 40px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: bisque 
+}
+#four{
+    width: 40px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: bisque 
+}
+#five{
+    width: 40px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: bisque   
+}
+#six{
+    width: 40px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: bisque  
+}
+#seven{
+    width: 40px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: bisque   
+}
+#eight{
+    width: 40px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: bisque    
+}
+#nine{
+    width: 40px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: bisque 
+}
+#multiple{
+    width: 40px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: bisque 
+}
+#addition{
+    width: 40px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: bisque   
+}
+#minus{
+    width: 40px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: bisque  
+}
+#zero{
+    width: 40px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: bisque    
+}
+#dote{
+    width: 40px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: bisque   
+}
+#equelltwo{
+    width: 40px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: bisque   
+}
+#division{
+    width: 40px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: bisque   
+}
+
+
